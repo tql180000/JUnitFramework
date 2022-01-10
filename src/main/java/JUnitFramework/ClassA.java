@@ -9,4 +9,6 @@ public class ClassA
 	public String concat(String a, String b) {
 		return a + b;
 	}
+
+	// new comment!
 }
